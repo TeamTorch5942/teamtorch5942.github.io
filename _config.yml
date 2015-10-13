@@ -3,14 +3,14 @@ title: Team Torch
 email: teamtorch5942@gmail.com
 url: https://teamtorch5942.github.io
 description: "FTC Team Torch 5942"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+skills: "FTC Team from North Hills, CA"
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
 contact: static
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
+  primary: 00e676 #80B3FF
   primary-rgb: "24,288,156" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
