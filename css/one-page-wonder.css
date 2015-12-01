@@ -20,6 +20,9 @@ body {
     color: #ffffff;
     background-color: #00e676;
 }
+.git-link > li > a {
+  color: #ffffff;
+}
 .header-image {
     display: block;
     width: 100%;
