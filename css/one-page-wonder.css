@@ -17,8 +17,8 @@ body {
     font-family: Dosis;
 }
 .git-link {
-  position: absolute;
   right: 0px;
+  background-color: #00e676;
 }
 
 .header-image {
