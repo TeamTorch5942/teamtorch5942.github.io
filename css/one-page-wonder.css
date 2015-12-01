@@ -16,7 +16,7 @@ body {
     Change if height of navigation changes. */
     font-family: Dosis;
 }
-.git-link {
+.git-link .git-link.disabled{
     color: #ffffff;
     background-color: #00e676;
 }
