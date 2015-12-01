@@ -3,6 +3,7 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
+ @import url(https://fonts.googleapis.com/css?family=Dosis:400,600);
  @font-face {
      font-family: BigJohn;
      src: url(/fonts/BigJohn.otf);
@@ -10,6 +11,7 @@
 
 body {
     margin-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    font: Dosis;
 }
 
 .header-image {
