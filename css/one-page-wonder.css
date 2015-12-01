@@ -16,13 +16,13 @@ body {
     Change if height of navigation changes. */
     font-family: Dosis;
 }
-.git-link {
+.git-link a {
     color: #ffffff;
     background-color: #00e676;
 }
-.git-link.disabled{
-    color: #ffffff;
-    background-color: #00e676;
+
+.navbar-inverse .navbar-nav > li > a {
+  color:;
 }
 .header-image {
     display: block;
