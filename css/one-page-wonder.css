@@ -3,6 +3,10 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
+ @font-face {
+     font-family: BigJohn;
+     src: url(/fonts/BigJohn.otf);
+ }
 
 body {
     margin-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
@@ -12,7 +16,7 @@ body {
     display: block;
     width: 100%;
     text-align: center;
-    background-image: url('img/computer.jpg') no-repeat center center scroll;
+    background: url('/img/computer.jpg') no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -27,6 +31,7 @@ body {
     font-size: 130px;
     background: #fff;
     background: rgba(255,255,255,0.9);
+    font-family: BigJohn,serif
 }
 
 .headline h2 {
