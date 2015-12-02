@@ -17,6 +17,7 @@ body {
     font-family: Dosis;
 }
 .git-link {
+  font-family: BigJohn;
   font-weight: bold;
   color: #00e676;
 }
@@ -42,7 +43,7 @@ body {
 
 .headline h1 {
     font-size: 130px;
-    font-family: BigJohn
+    font-family: BigJohn;
 }
 
 .headline h2 {
