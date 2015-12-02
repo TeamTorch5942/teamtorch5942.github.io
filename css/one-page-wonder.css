@@ -3,7 +3,7 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
- @import url(https://fonts.googleapis.com/css?family=Dosis:400,600);
+ @import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
  @font-face {
      font-family: BigJohn;
      src: url(/fonts/BigJohn.otf);
@@ -14,10 +14,9 @@ body {
     /* Required padding for .navbar-fixed-top.
     Remove if using .navbar-static-top.
     Change if height of navigation changes. */
-    font-family: Dosis;
+    font-family: PT Sans;
 }
 .git-link {
-  font-family: BigJohn;
   font-weight: bold;
   color: #00e676;
 }
