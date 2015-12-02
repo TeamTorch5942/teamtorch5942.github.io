@@ -16,6 +16,9 @@ body {
     Change if height of navigation changes. */
     font-family: Josefin Sans, sans-serif;
 }
+body a {
+
+}
 .git-link {
   font-weight: bold;
   color: #00e676;
@@ -52,12 +55,12 @@ body {
 }
 
 .headline h1 {
-    font-size: 130px;
+    font-size: 60px;
     font-family: BigJohn;
 }
 
 .headline h2 {
-    font-size: 77px;
+    font-size: 40px;
 }
 
 .featurette-divider {
