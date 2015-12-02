@@ -16,9 +16,8 @@ body {
     Change if height of navigation changes. */
     font-family: Dosis;
 }
-.xgit-link {
-  color: #222222;
-  background-color: #00e676;
+.git-link {
+  font-weight: bold
 }
 
 .header-image {
