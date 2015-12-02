@@ -26,6 +26,7 @@ body {
 }
 .contact-nav {
   list-style-type: none;
+  color: #000;
 }
 .contact-nav a {
   color: #0DB362;
