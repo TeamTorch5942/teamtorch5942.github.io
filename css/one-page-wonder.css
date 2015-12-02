@@ -24,6 +24,11 @@ body {
 .text-muted {
   color: #0DB362;
 }
+.contact-nav {
+  list-style-type: none;
+  text-decoration: none;
+  color: #000;
+}
 .header-image {
     display: block;
     width: 100%;
