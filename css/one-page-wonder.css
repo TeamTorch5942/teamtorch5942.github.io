@@ -21,6 +21,9 @@ body {
   color: #00e676;
 }
 
+.text-muted {
+  color: #00e676;
+}
 .header-image {
     display: block;
     width: 100%;
