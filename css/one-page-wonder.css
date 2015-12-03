@@ -42,7 +42,7 @@ body a {
     display: block;
     width: 100%;
     text-align: center;
-    background: url('../img/computer.jpg') no-repeat center center scroll;
+    background: url('../img/.team_cropped.jpg') no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
