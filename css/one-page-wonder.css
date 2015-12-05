@@ -57,6 +57,7 @@ body a {
 .headline h1 {
     font-size: 60px;
     font-family: BigJohn;
+    text-shadow: 6px 6px #ff0000b6;
 }
 
 .headline h2 {
