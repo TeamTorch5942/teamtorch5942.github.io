@@ -4,7 +4,7 @@
   src: url(fonts/BigJohn.otf);
 }
 
-.jumbotron {
+.head {
   background-color: #00e676;
   font-family: BigJohn;
 }
