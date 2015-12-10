@@ -3,7 +3,19 @@
   font-family: BigJohn;
   src: url(fonts/BigJohn.otf);
 }
+body {
+  font-family: "Josefin Sans", sans-serif;
+  color: #333;
+}
+h1 {
 
+}
+h2{
+
+}
+h3 {
+
+}
 .head {
   padding: 50px;
   background-color: #00e676;
