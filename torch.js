@@ -6,6 +6,6 @@ $('#nav').affix({
 
 $('#sidebar').affix({
       offset: {
-        top: 200
+        top: 280
       }
-});	
+});

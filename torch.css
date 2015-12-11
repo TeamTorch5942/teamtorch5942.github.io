@@ -17,11 +17,15 @@ h3 {
 
 }
 .masthead {
-  padding: 50px;
-  background-color: #00e676;
+  background: #00e676; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #00e676 , #001510); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #00e676 , #001510); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   color: white;
   text-align: center;
 }
+
+/* removes rounded corners */
+* { -webkit-border-radius: 0 !important; -moz-border-radius: 0 !important; border-radius: 0 !important; }
 
 .navbar-form input, .form-inline input {
 	width:auto;
