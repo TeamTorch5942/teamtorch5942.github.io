@@ -8,7 +8,7 @@ body {
   color: #333;
 }
 h1 {
-
+  font-family: "BigJohn", "Josefin Sans", sans-serif;
 }
 h2{
 
@@ -16,56 +16,33 @@ h2{
 h3 {
 
 }
-.head {
+.masthead {
   padding: 50px;
   background-color: #00e676;
   color: white;
   text-align: center;
 }
 
-@media screen and (min-width: 768px) {
-	#masthead h1 {
-		font-size: 100px;
-	}
+.navbar-form input, .form-inline input {
+	width:auto;
 }
 
-.navbar-bright {
-	background-color:#111155;
-    color:#fff;
+header {
+	height:280px;
 }
 
-.navbar-bright a, #masthead a, #masthead .lead {
-  	color:#aaaacc;
-}
-
-.navbar-bright li > a:hover {
-    background-color:#000033;
-}
-
-.affix-top,.affix{
-	position: static;
-}
-
-@media (min-width: 979px) {
-  #sidebar.affix-top {
-    position: static;
-  	margin-top:30px;
-  	width:228px;
-  }
-
-  #sidebar.affix {
+#nav.affix {
     position: fixed;
-    top:70px;
-    width:228px;
-  }
+    top: 0;
+    width: 100%;
+    z-index:10;
 }
 
-#sidebar li.active {
-  	border:0 #eee solid;
-  	border-right-width:4px;
+#sidebar.affix-top {
+    position: static;
 }
 
-#mainCol h2 {
-	padding-top: 55px;
-    margin-top: -55px;
+#sidebar.affix {
+    position: fixed;
+    top: 80px;
 }
