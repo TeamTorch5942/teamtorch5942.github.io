@@ -22,7 +22,7 @@ $('#nav.smoothscroll ul li a[href^="#"]').on('click', function(e) {
 
 document.getElementById("demo").innerHTML = "Hello JavaScript";
 
-// Float Navbar at side
+/* Float Navbar at side
 $('#sidebar').affix({
       offset: {
         top: 245
@@ -36,3 +36,4 @@ $body.scrollspy({
 	target: '#leftCol',
 	offset: navHeight
 });
+*/
