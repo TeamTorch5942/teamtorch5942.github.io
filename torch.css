@@ -23,7 +23,7 @@ h3 {
 }
 
 /* removes rounded corners */
-* { -webkit-border-radius: 0 !important; -moz-border-radius: 0 !important; border-radius: 0 !important; }
+.navbar { -webkit-border-radius: 0 !important; -moz-border-radius: 0 !important; border-radius: 0 !important; }
 
 .navbar-form input, .form-inline input {
 	width:auto;
