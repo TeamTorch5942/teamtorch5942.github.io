@@ -32,7 +32,10 @@ header {
 	height:280px;
 }
 /* navbar */
-
+.justified {
+    position:absolute;
+    left:50%;
+}
 .navbar-default {
     background-color: #00e676;
     border: none;
