@@ -6,7 +6,10 @@ http://www.bootstrapzero.com
 */
 
 @import url(https://fonts.googleapis.com/css?family=Josefin+Sans:400,600);
-
+@font-face {
+  font-family: BigJohn;
+  src: url(../fonts/BigJohn.otf);
+}
 html,
 body {
     width: 100%;
