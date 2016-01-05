@@ -5,7 +5,8 @@ http://www.bootstrapzero.com
 
 */
 
-@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:400,600);
+@import url(https://fonts.googleapis.com/css?family=Cabin:700,500);
+
 @font-face {
   font-family: BigJohn;
   src: url(../fonts/BigJohn.otf);
@@ -20,7 +21,7 @@ body {
 }
 
 body {
-    font-family: 'Josefin Sans','Helvetica Neue',Arial,sans-serif;
+    font-family: 'Cabin','Helvetica Neue',Arial,sans-serif;
     background-color: #282828;
     color: #d3d3d3;
     webkit-tap-highlight-color: #222;
@@ -52,7 +53,7 @@ a:focus {
 }
 
 h1,h2,h3,h4,h5,h6 {
-    font-family: 'Josefin Sans','Helvetica Neue',Arial,sans-serif;
+    font-family: 'Cabin','Helvetica Neue',Arial,sans-serif;
 }
 
 p {
@@ -118,7 +119,7 @@ footer {
 
 .navbar-default {
     border-color: rgba(35,35,35,.05);
-    font-family: 'Josefin Sans','Helvetica Neue',Arial,sans-serif;
+    font-family: 'Cabin','Helvetica Neue',Arial,sans-serif;
     background-color: #222;
     -webkit-transition: all .4s;
     -moz-transition: all .4s;
@@ -126,7 +127,7 @@ footer {
 }
 
 .navbar-header > .navbar-brand {
-    font-family: 'Josefin Sans','Helvetica Neue',Arial,sans-serif;
+    font-family: 'BigJohn','Helvetica Neue',Arial,sans-serif;
     color: #00e676;
     padding: 15px;
     -webkit-transition: padding .2s ease-in;
@@ -324,7 +325,7 @@ footer {
     }
 
     section {
-        min-height: 600px;
+        min-height: 60px;
         padding: 100px 0;
     }
 
