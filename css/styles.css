@@ -514,9 +514,20 @@ fieldset[disabled] .btn-default.active {
     font-family: 'Helvetica Neue',Arial,sans-serif;
 }
 
+.btn-green {
+  color: #00e676;
+  background-color: none;
+  border: 1px solid #00e676;
+}
+.btn.btn-green:hover {
+  color: #15854E;
+  border: 1px solid #15854E;
+
+}
 .btn-xl {
     padding: 15px 30px;
     font-size: 20px;
+    font-family: "Big John";
 }
 
 ::-moz-selection {
