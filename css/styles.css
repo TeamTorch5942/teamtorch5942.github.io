@@ -53,7 +53,7 @@ a:focus {
 }
 
 h1,h2,h3,h4,h5,h6 {
-    font-family: 'Cabin','Helvetica Neue',Arial,sans-serif;
+    font-family: 'Big John','Helvetica Neue',Arial,sans-serif;
 }
 
 p {
@@ -329,6 +329,15 @@ footer {
         padding: 100px 0;
     }
 
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img{
+  margin: auto;
+}
+.carousel-control .right,
+.carousel-control .left {
+  background: none;
 }
 
 .form-control {
